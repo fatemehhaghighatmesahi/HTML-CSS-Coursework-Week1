@@ -6,3 +6,12 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+
+
+nav{height: 50px;
+    width: 30vw    ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: ;
+}
